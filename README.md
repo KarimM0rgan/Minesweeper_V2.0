@@ -4,7 +4,7 @@
 Minesweeper is a classic game where a grid has normal tiles and uncovered mines. The objective of the game is to uncover all tiles and flag all mines. If the player presses a mine, they lose. If they uncover all safe tiles, they win. More about the game [here](https://www.instructables.com/How-to-play-minesweeper/).
 
 # ⬇️ Class Diagram:
-![img.png](img.png)
+![img.png](Classes%20Tree.png)
 Source: [Mermaid Live Editor](https://mermaid.live/edit#pako:eNpVjUFPg0AQhf8KmZMmlGzZ7VI4mFiwRmNP1ovQw1imsBEWsgVrJfx3oY2mndO8770308G2SgkC2BXVYZujaax1lGhrmPt4hUpvrMnkbnGzUpr2B6KazOPb0-05sRg9K-wuTSypv3SX3TN-ofV6UDqzXtSHQXO8CkTxWhW0OaNwRFckGslDvCwwOxGwITMqhaAxLdlQkilxlNCNbgJNTiUlEAxriuYzgUT3Q6dG_V5V5V_NVG2WQ7DDYj-otk6xoUhhZrD8p4Z0SiasWt1AIDg_HYGgg-9BunPH8z05n_nMnzFf2HAcqHAEZ54rhcu9mWSyt-Hn9JU5c-H73pSzqWRcCi77X80ucEw)
 
 # 🚧 Implementation
